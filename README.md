@@ -12,7 +12,7 @@ What do you mean by this. It is f*king Sudoku. The Vanilla one of course.
 - For Linux, use your good ol' git clone. Then the following
   '''
   cd <desired folder>/
-  g++ -0fast -pthread ./src/*.cpp -lncursesw -o <gamename>
+  g++ -Ofast -pthread ./src/*.cpp -lncursesw -o <gamename>
   '''
 - For Windows, git clone is available. But I am still working on the Terminals syntax for this
 # Running this junk
