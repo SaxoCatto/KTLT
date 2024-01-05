@@ -1,22 +1,42 @@
 # KTLT
-2023.1, ET2031, I and a friend had a plan of making Sudoku, the OG. If possible, we wanted it to have a seperate UI, other than the Terminal.
+Timeline is 2023.1, for course ET2031. A friend and I had a plan of making Sudoku in the original map 9x9. If possible, we wanted it to have a seperate UI, other than the Terminal. This source code should allow you running Sudoku in your chosen terminal.
 
 # How to play 
 What do you mean by this. It is f*king Sudoku. The Vanilla one of course.
+The gist of it is that, in a map like 9x9, the player wins when there is no single column, row or diagonal that contains two of the same number
 
+Eg:
+```bash
+Bad:  1 2 3 3 5 6 7 8 9
+      .................
+Good: 1 2 3 4 5 6 7 8 9
+      .................
+```
 # Requirements
 - Uses Linux or Windows (OSC for boarder side)
 - Have g++, clang++ in their newest version.
-
-# Installation
-- For Linux, use your good ol' git clone. Then the following
-  '''
-  cd <desired folder>/
-  g++ -Ofast -pthread ./src/*.cpp -lncursesw -o <gamename>
-  '''
-- For Windows, git clone is available. But I am still working on the Terminals syntax for this
+# Installing session
+- For Linux, use your good ol' git clone. Then paste the following into your console screen
+```bash
+cd path/to/desired/directory
+g++ -ofast -pthread ./src/*.cpp -lncursesw -o "game name"
+```
+- For Windows, git clone is available. But I am still working on the syntax for this goober Power Shell.
 # Running this junk
-- For Linux, just: ./<gamename>
+- For Linux:
+```bash
+./"game name"
+```
+- For Windows:
 # Instruction
-- To be continued
+- Prerequisite: knowing how to play Sudoku, can open your console, compatible Ascii code (optional)
+- If you want to make a new game, use the # Installing session
+- If you want to continue an unfinished game, move to the directory (default is this whole folder), and invoke Bash with
+```bash
+./"game name"
+```
+(You can alternatively just open your file manager, drag the game file onto the console. Like how Google Drive does it.)
 # Demos and bugs
+[le pic]
+[le pic 2]
+[vid not needed but pog]
