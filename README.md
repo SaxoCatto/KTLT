@@ -29,7 +29,7 @@ g++ -ofast -pthread ./src/*.cpp -lncursesw -o "game name"
 ```
 - For Windows:
 # Instruction
-- Prerequisite: knowing how to play Sudoku, can open your console, compatible Ascii code (optional)
+- Prerequisite: knowing how to play Sudoku, can open your console, compatible Ascii code (I think so)
 - If you want to make a new game, use the # Installing session
 - If you want to continue an unfinished game, move to the directory (default is this whole folder), and invoke Bash with
 ```bash
@@ -37,6 +37,6 @@ g++ -ofast -pthread ./src/*.cpp -lncursesw -o "game name"
 ```
 (You can alternatively just open your file manager, drag the game file onto the console. Like how Google Drive does it.)
 # Demos and bugs
-[le pic]
-[le pic 2]
+Bug: ![Goober](https://github.com/SaxoCatto/KTLT/blob/main/Bug_encoding.png)
+Run in terminal: ![Epic](https://github.com/SaxoCatto/KTLT/blob/main/FINAL_in_console.png)
 [vid not needed but pog]
