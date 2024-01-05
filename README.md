@@ -38,5 +38,6 @@ g++ -ofast -pthread ./src/*.cpp -lncursesw -o "game name"
 (You can alternatively just open your file manager, drag the game file onto the console. Like how Google Drive does it.)
 # Demos and bugs
 Bug: ![Goober](https://github.com/SaxoCatto/KTLT/blob/main/Bug_encoding.png)
+
 Run in terminal: ![Epic](https://github.com/SaxoCatto/KTLT/blob/main/FINAL_in_console.png)
-[vid not needed but pog]
+
