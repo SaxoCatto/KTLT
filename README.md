@@ -37,6 +37,6 @@ g++ -ofast -pthread ./src/*.cpp -lncursesw -o "game name"
 ```
 (You can alternatively just open your file manager, drag the game file onto the console. Like how Google Drive does it.)
 # Demos and bugs
-<img align="left" width="400" height="400" src="https://github.com/SaxoCatto/KTLT/blob/main/Bug_encoding.png">
+<img align="left" width="700" height="500" src="https://github.com/SaxoCatto/KTLT/blob/main/Bug_encoding.png">
 <img align="left" width="400" height="400" src="https://github.com/SaxoCatto/KTLT/blob/main/FINAL_in_console.png">
 
