@@ -1,5 +1,5 @@
 # KTLT
-Timeline is 2023.1, for course ET2031. A friend and I had a plan of making Sudoku in the original map 9x9. If possible, we wanted it to have a seperate UI, other than the Terminal. This source code should allow you running Sudoku in your chosen terminal.
+Timeline is 2023.1, for course [ET2031](https://tailieuhust.com/tai-lieu-ky-thuat-lap-trinh-hust/). A friend and I had a plan of making Sudoku in the original map 9x9. If possible, we wanted it to have a seperate UI, other than the Terminal. This source code should allow you running Sudoku in your chosen terminal.
 
 # How to play 
 What do you mean by this. It is f*king Sudoku. The Vanilla one of course.
