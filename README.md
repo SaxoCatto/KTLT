@@ -3,7 +3,7 @@ Timeline is 2023.1, for course [ET2031](https://tailieuhust.com/tai-lieu-ky-thua
 
 # How to play 
 What do you mean by this. It is f*king Sudoku. The Vanilla one of course.
-The gist of it is that, in a map like 9x9, the player wins when there is no single column, row or diagonal that contains two of the same number
+The gist of it is that, in a map like 9x9, the player wins when there is no single column, row that contains two of the same number. For the 9x9 map, no 3x3 boxes must have the same number also.
 
 Eg:
 ```bash
